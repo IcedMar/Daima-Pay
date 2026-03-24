@@ -1,4 +1,4 @@
-ystem Overview
+System Overview
 
 DaimaPay is a comprehensive airtime and mobile payment ecosystem that enables businesses, resellers, and individuals to purchase and distribute airtime efficiently. The system integrates with M-Pesa (Safaricom Daraja API) and Africa's Talking for airtime fulfillment, providing a seamless experience across multiple platforms.
 
