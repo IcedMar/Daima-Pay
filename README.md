@@ -35,8 +35,8 @@ DaimaPay is a comprehensive airtime and mobile payment ecosystem that enables bu
 │                  │    Express)     │                           │
 │                  └────────┬────────┘                           │
 │                           │                                    │
-│         ┌──────────────────┼──────────────────┐                │
-│         │                  │                  │                │
+│         ┌─────────────────┼─────────────────┐                  │
+│         │                 │                 │                  │
 │  ┌──────▼──────┐  ┌───────▼──────┐  ┌───────▼──────┐           │
 │  │  Firebase   │  │  M-Pesa      │  │  Africas     │           │
 │  │  Firestore  │  │  Daraja API  │  │  Talking API │           │
